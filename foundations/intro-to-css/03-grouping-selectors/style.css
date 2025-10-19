@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+
+.shared {
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.left {
+    color: white;
+    background-color: black;
+}
+.right {
+    background-color: yellow;
+}

@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+
+p {
+    background-color: pink;
+    font-size: 18px;
+}
+#two{
+    color: blue;
+    font-size: 48px;
+}
+.three {
+    font-size: 36px;
+}
+
+#four {
+    background-color: green;
+    font-weight: bold;
+    font-size: 34px;
+}

@@ -1,6 +1,16 @@
+
 body {
   background: #eee;
   font-family: sans-serif;
+  
+}
+h1 {
+  margin: 10px;
+  font-size: 16px;
+}
+
+div{
+  margin: 10px;
 }
 
 .card {
@@ -15,13 +25,25 @@ body {
 
 .content {
   background: #e3f4ff;
+  padding: 10px 0px;
+
 }
 
 .button-container {
   background: #e3f4ff;
+  padding: 10px;
+  margin: 10px auto;
+  text-align: center;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  text-align: center;
+  margin: 10px auto;
+  
+}
+button:hover{
+  color: red;
 }
